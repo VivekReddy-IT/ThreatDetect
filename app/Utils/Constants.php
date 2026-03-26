@@ -160,7 +160,7 @@ class Constants {
     protected string $MAIL_HOST      = 'smtp.eu.mailgun.org';
     protected string $MAIL_SEND_BIN  = '/usr/sbin/sendmail';
 
-    protected string $PAGE_TITLE_POSTFIX = '| tirreno';
+    protected string $PAGE_TITLE_POSTFIX = '| ThreatDetect';
 
     protected int $PAGE_VIEW_EVENT_TYPE_ID = 1;
     protected int $PAGE_EDIT_EVENT_TYPE_ID = 2;

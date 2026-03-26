@@ -61,7 +61,7 @@ return [
     'AdminApi_form_field_token_label' => 'Enrichment key',
     'AdminApi_form_field_token_placeholder' => 'TIR:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=',
     'AdminApi_current_token_tooltip' => 'Current key: ',
-    'AdminApi_form_confirmationMessage' => 'You can use tirreno without a paid subscription or choose to enrich IP data. To learn about enrichment plans and obtain a subscription key, please visit: https://www.tirreno.com/pricing/',
+    'AdminApi_form_confirmationMessage' => 'You can use ThreatDetect without a paid subscription or choose to enrich IP data. To learn about enrichment plans and obtain a subscription key, please visit: https://www.tirreno.com/pricing/',
 
     'AdminApi_token_management_title' => 'Enrichment subscription management',
     'AdminApi_token_management_title_tooltip' => 'Usage statistics and subscription key management',

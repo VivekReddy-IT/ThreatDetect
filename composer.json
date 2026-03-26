@@ -1,9 +1,9 @@
 {
-    "name": "tirreno/tirreno",
+    "name": "threatdetect/threatdetect",
     "type": "project",
     "description": "Open-source security framework",
     "keywords": [
-        "tirreno",
+        "threatdetect",
         "fraud-detection",
         "audit-trail",
         "analytics",
